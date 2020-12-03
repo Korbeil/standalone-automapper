@@ -1,0 +1,11 @@
+{
+    "require": {
+        "jane-php/automapper": "^6.3",
+        "symfony/serializer": "^5.2",
+        "doctrine/annotations": "^1.11",
+        "phpdocumentor/reflection-docblock": "^5.2"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.2"
+    }
+}
